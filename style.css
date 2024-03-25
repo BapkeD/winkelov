@@ -1,0 +1,10 @@
+.start
+{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 25px;
+    color: white;
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+    font-size: 50px;
+}
